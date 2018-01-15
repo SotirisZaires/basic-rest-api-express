@@ -10,10 +10,3 @@ module.exports.getComments = comment.getComments
 module.exports.addComment = comment.addComment
 module.exports.updateComment = comment.updateComment
 module.exports.removeComment = comment.removeComment
-
-/*
-module.exports = {
-    post: require('./posts.js')
-   // comment: require('./comments.js')
-}
-*/
